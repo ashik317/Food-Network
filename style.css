@@ -1,0 +1,219 @@
+#color {
+    color: orange;
+}
+
+.section {
+    display: flex;
+    margin-top: 50px;
+}
+
+.female-image1 {
+    margin-left: 200px;
+}
+
+.font-size {
+    font-family: 'Gloock', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 300%;
+    font-style: normal;
+    color: dimgray;
+}
+
+.part1 {
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+#font-size {
+    font-size: large;
+    color: grey;
+}
+
+.order-food {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: wheat;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+#Lorem-ipsum {
+    font-size: large;
+}
+
+.female-image2 {
+    margin-top: 2%;
+    width: 50%;
+    padding: 2%;
+
+}
+
+.area {
+    background-color: rgb(247, 236, 222);
+    display: flex;
+    margin-top: 50px;
+    margin: auto;
+
+}
+
+.female-image2 img {
+    width: 160%;
+    margin-left: 80%;
+}
+
+.part2 {
+    margin-left: 35%;
+    margin-top: 80px;
+    margin-right: 15%;
+}
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-left: 70px;
+}
+
+.third-part-head {
+    text-align: center;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    color: dimgray;
+}
+
+#font {
+    font-size: 200%;
+}
+
+#p-font {
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    color: rgb(62, 61, 61);
+}
+
+.third-part {
+    display: flex;
+    margin-top: 50px;
+
+}
+
+.image1 {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    box-shadow: 5px 5px 5px 5px rgb(234, 230, 230);
+    border-radius: 15px;
+}
+
+.image2 {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    box-shadow: 5px 5px 5px 5px rgb(234, 230, 230);
+    border-radius: 15px;
+}
+
+.image3 {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    box-shadow: 5px 5px 5px 5px rgb(234, 230, 230);
+    border-radius: 15px;
+}
+
+.image1 img {
+    width: 270px;
+    margin-top: 25px;
+}
+
+.image2 img {
+    width: 270px;
+    margin-top: 25px;
+}
+
+.image3 img {
+    width: 270px;
+    margin-top: 25px;
+}
+
+.Tilte {
+    text-align: center;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    color: rgb(59, 58, 58);
+    font-size: large;
+}
+
+#h-font {
+    font-size: 25px;
+    color: black;
+}
+
+.forth-part {
+    display: flex;
+}
+
+.frame {
+    height: 50%;
+    width: 84%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(234, 230, 230);
+}
+
+.Youtube {
+    font-size: 30px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    margin-left: 10%;
+}
+
+#Youtube {
+    font-size: 15px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+}
+
+.Instagram {
+    font-size: 30px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    margin-left: 20%;
+}
+
+#Instagram {
+    font-size: 15px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+}
+
+.Dribbble {
+    font-size: 30px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+    margin-left: 25%;
+}
+
+#Dribbble {
+    font-size: 15px;
+    font-family: 'Gloock', serif;
+    font-family: 'Tilt Warp', cursive;
+}
+
+.foot {
+    background-color: rgb(34, 32, 32);
+    color: rgb(203, 206, 166);
+    text-align: center;
+    width: 100%;
+}
+
+#food {
+    color: tomato;
+}
